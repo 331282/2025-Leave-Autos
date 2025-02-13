@@ -1,2 +1,2 @@
-# 2025-Tank-Drive-Auto
-Code for tank drives to move during auto.
+# 2025 Leave Autos
+Code for any FRC team to be able to leave.
